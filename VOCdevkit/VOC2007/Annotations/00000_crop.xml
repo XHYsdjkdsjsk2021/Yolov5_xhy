@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+	<annotation>
+		<folder>images</folder>
+		<filename>00000_crop.jpg</filename>
+		<path>/data/haoyuan/YOLOX/datasets/VOCdevkit/VOC2007/JPEGImages00000_crop.jpg</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>629</width>
+			<height>629</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+		<object>
+			<name>66</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>17</xmin>
+				<ymin>226</ymin>
+				<xmax>269</xmax>
+				<ymax>478</ymax>
+			</bndbox>
+		</object>
+	</annotation>
